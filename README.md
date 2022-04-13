@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Godsacomputer
+- 👋 Hi, I’m @A2AD2G4E
 - 👀 I’m interested in Full Stack Engineering
 - 🌱 I’m currently learning Full stack engineering and best fundamentals
-- 💞️ I’m looking to collaborate with junior developers like me
+- 💞️ I’m looking to get hired and join a great team with great culture
 - 📫 How to reach me @ kingdomcre8tive@gmail.com 
 
 <!---
